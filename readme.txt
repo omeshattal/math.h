@@ -1,0 +1,20 @@
+my project is math library
+it contain various math fuction 
+sin()
+cos()
+tan()
+log()
+log 10()
+ceil()
+floor()
+asin()
+acos()
+atan()
+sinh()
+cosh()
+round()
+pow()
+expo()
+fabs()
+sqrt()
+and many more.
